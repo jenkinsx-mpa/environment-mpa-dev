@@ -1,4 +1,5 @@
 datadog:
-  apiKey: vault:gitOps/jenkinsx-mpa/environment-mpa-dev/datadog:apiKey
-  logEnabled: true
-  site: datadoghq.com
+  datadog:
+    apiKey: vault:gitOps/jenkinsx-mpa/environment-mpa-dev/datadog:apiKey
+    logEnabled: true
+    site: datadoghq.com
