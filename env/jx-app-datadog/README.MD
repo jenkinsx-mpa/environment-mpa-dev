@@ -2,7 +2,7 @@
 
 |App Metadata||
 |---|---|
-| **Version** | 0.0.3 |
+| **Version** | 0.0.4 |
 | **Description** | The Datadog App for Jenkins X |
 | **Chart Repository** | https://storage.googleapis.com/chartmuseum.jenkins-x.io |
 
