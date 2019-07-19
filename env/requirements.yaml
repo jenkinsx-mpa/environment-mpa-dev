@@ -13,3 +13,6 @@ dependencies:
 - name: jx-app-datadog
   repository: https://storage.googleapis.com/chartmuseum.jenkins-x.io
   version: 0.0.4
+- name: jx-app-prometheus
+  repository: https://storage.googleapis.com/chartmuseum.jenkins-x.io
+  version: 0.0.3
