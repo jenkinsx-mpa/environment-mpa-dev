@@ -1,5 +1,0 @@
-datadog:
-  datadog:
-    logsConfigContainerCollectAll: true
-    logsEnabled: true
-    site: datadoghq.com
