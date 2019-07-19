@@ -1,5 +1,6 @@
 datadog:
   datadog:
-    apiKey: vault:gitOps/jenkinsx-mpa/environment-mpa-dev/datadog:apiKey
-    logEnabled: true
+    apiKey: vault:gitOps/jenkinsx-mpa/environment-mpa-dev/datadog-datadog:apiKey
+    logsConfigContainerCollectAll: true
+    logsEnabled: true
     site: datadoghq.com
